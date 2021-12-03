@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InputValidations</string>
+
+    <string name="text_validation_success">Validator Success</string>
+    <string name="text_validation_error_empty_field">Please fill empty field!</string>
+    <string name="text_validation_error_email">Email not valid!</string>
+    <string name="text_validation_error_min_pass_length">Your password must be a minimum of 6 characters</string>
+    <string name="text_validation_error_max_pass_length">Your password cannot be more than 25 characters</string>
+</resources>
